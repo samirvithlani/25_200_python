@@ -1,0 +1,65 @@
+PYTHON:
+programming language:
+give input to system 
+in machine undrerstable lang: programming
+
+it is set of protocols
+
+programming lang: compiler <--> turbo c
+role:
+whole code:
+interpreter :
+
+prog          :c,cpp,java...
+	      : Hello;
+	      : void main... start end	
+	
+scripting lang:js,python
+
+	      :	Hello
+
+---------------------------------------------------
+
+2 type of programming / scripting
+
+1)statically Typed  : when we declare variable we have to specify type of data
+		    : c --> int a =10;	
+2)Dynamically Typed : when we declare variable we have dont have to specify type of data
+		    : a = 10, f =10.10, c = "c" : compiler // interprter:
+                    : a = 10 --int, c = 's' -->char
+
+
+C -- > machine lang:
+
+python:
+1)Dektop Application :
+2)Web Application    :Netflix,Facebook...
+3)Game Developement  : ...
+4)Data Science       : Ai,Ml,....
+
+Preq:Basic prog,
+Install : Python,VsCode[IDE]
+
+start button --> cmd search 
+type python
+if not : microsoft -->Get
+	not 
+
+ADD TO PATH tick....
+
+
+
+d:
+ royal:
+   25_200_python
+
+open this folder in vs code
+.c,.cpp, .py
+
+
+
+
+typecasting
+
+int -->int
+float ->float,int
