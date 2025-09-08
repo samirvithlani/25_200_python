@@ -63,3 +63,21 @@ typecasting
 
 int -->int
 float ->float,int
+
+operators:
+operators are the special symbol which can use to perform specific operation on oprands
+
+type of operators:
+
+unery operator : it requireds only 1 operand :
+binery op: it requireds min 2 operand :
+ternery op : it requireds min 3 operand :
+
+python does not have unery op:
+arithmetic op:+,-,*,/,% ,//,**
+logical op: and,or,not
+asignment op: = , arithmetic+
+bitwise:
+relational operators:==,!=,>=,<=,>,<,
+membership op: in, not in
+identity op:is ,is not
