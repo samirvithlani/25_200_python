@@ -81,3 +81,23 @@ bitwise:
 relational operators:==,!=,>=,<=,>,<,
 membership op: in, not in
 identity op:is ,is not
+
+
+Decision making statments:
+1)if else :
+2)switch case:
+3)loops:
+
+
+
+if(condition || TRUE || FALSE -->else){
+	//block..
+}
+else{
+	//block
+}
+
+
+python does not have  {}
+how to create block..
+we will indentations
