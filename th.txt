@@ -101,3 +101,19 @@ else{
 python does not have  {}
 how to create block..
 we will indentations
+
+1)get no from user and check it is divisble by 3 or not
+2)check person is married or not [boolean variable compulsary]
+3)get 2 no from user and check which one is bigger
+4)get 2 no from user and check which one is bigger, and store bigger value in max , and smaller value in min
+and display min and max...
+
+ladder if else:
+
+if condition:
+	body
+elif condition:
+	body
+..
+..
+else:		
