@@ -117,3 +117,33 @@ elif condition:
 ..
 ..
 else:		
+
+
+GET INPUT of AGE AND GENDER [male,female]
+
+if AGE<12 ticket price will be 50
+if gender is female and sr citizen price will be 30
+or else price will be 100
+
+
+
+sr citizen - 60
+isAlive = True
+
+logical operator:
+and or ,not
+&&, || , not
+
+
+and
+condition 1  and  condition 2
+
+True---> True-->  True
+True --->False -->False
+False =* ----->False
+
+OR
+
+True -*   -->True
+False --->True -->True
+False -->False --> False
