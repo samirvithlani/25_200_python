@@ -85,7 +85,7 @@ identity op:is ,is not
 
 Decision making statments:
 1)if else :
-2)switch case:
+2)switch case: match case
 3)loops:
 
 
@@ -147,3 +147,15 @@ OR
 True -*   -->True
 False --->True -->True
 False -->False --> False
+-----------------------------------
+
+user can apply for visa if he/she has aadharcard or paancard and he/she must have passport
+user age must grt > 1 year
+
+admission:
+10th 80,[60,50,50,50,60,50,60]
+12th 80,[90,89,89,90,90]
+
+10th 80 %
+12th 80 %
+or both average 80
