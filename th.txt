@@ -159,3 +159,12 @@ admission:
 10th 80 %
 12th 80 %
 or both average 80
+
+LOOPS:
+Entry control loop: for while
+exit control loop : do while
+
+python does not have exit control loop
+
+for : when u know starting and end:
+while when you dont know ending point...
