@@ -2,7 +2,7 @@ no1 = int(input("enter no 1:"))
 no2 = int(input("enter no 2:"))
 
 
-choice = int(input(" Enter 1 for  add \n Enter 2 for sub \n Enter 3 for mul \n Enter 4 for Div"))
+choice = int(input("Enter 1 for  add \n Enter 2 for sub \n Enter 3 for mul \n Enter 4 for Div"))
 
 # if(choice ==1):
 # elif(choice==2)
