@@ -168,3 +168,10 @@ python does not have exit control loop
 
 for : when u know starting and end:
 while when you dont know ending point...
+
+
+task:
+
+LCM of 2  number
+least common multipule: 10 ,15
+#30
