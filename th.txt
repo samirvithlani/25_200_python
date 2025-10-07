@@ -183,3 +183,15 @@ least common multipule: 10 ,15
 #give 3 chance only to input correct balance
 #if correct print balance
 
+string: 'java' -->str
+string stores data in index manner: index starts with 0
+"java"
+j=0
+a=1
+v=2
+a=3
+string is immutable:
+immutable : we can not modify after declare.
+string is iterable object: we can use loop  *123*
+string is subsriptable: we can access any index..
+
