@@ -195,3 +195,10 @@ immutable : we can not modify after declare.
 string is iterable object: we can use loop  *123*
 string is subsriptable: we can access any index..
 
+task:
+without using index and find funciton find index of char
+
+java ->loop
+"j" --0
+"z" --> -1
+
