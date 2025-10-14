@@ -1,0 +1,9 @@
+ord
+chr
+len
+upper
+lower
+title
+capitilize
+index
+find
