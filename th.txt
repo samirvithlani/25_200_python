@@ -202,3 +202,13 @@ java ->loop
 "j" --0
 "z" --> -1
 
+
+hi this is india
+
+hithisisindia
+
+-->hint -->char ""
+for
+in
+if
+append

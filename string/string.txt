@@ -1,11 +1,23 @@
-ord
-chr
-len
-upper
-lower
-title
-capitilize
-index
-find
-startsWith
-endsWith
+ord : char -- >assiciv alue
+chr : number[assci]==>char
+len : string lenght
+upper : convert string to upper case
+lower:   ""
+title : conver first char of word to upper case
+capitilize: convert firsr char of string to upper
+index : return index of char or stirng,, java -->j -->0 --> if not found error:
+find  : return index of char or stirng,, java -->j -->0 --> if not found return -1
+startsWith : it checks if string starts with substring or not : boolean
+endsWith   : ""
+isupper    :  
+islower
+isalpha
+isdigit,isnumric
+isspace
+istitle
+isalnum
+isprintble
+lstrip
+rstrip
+strip
+split() -->list
