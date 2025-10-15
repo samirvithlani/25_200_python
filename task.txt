@@ -1,0 +1,12 @@
+Join a  into a string
+Example: "abc → "a-b-c"
+
+Swap case
+Example: "PyThOn" → "pYtHoN"
+
+Remove duplicate characters
+Example: "programming" → "progamin"
+
+Remove all digits from a string
+
+Count number of uppercase and lowercase letters
