@@ -212,3 +212,28 @@ for
 in
 if
 append
+
+array: array is group of similar kind elm:
+50 student name --> 50,500,5000,..50,000 variable
+50 represent -- group ->name
+Array : index manner - 0
+studets = [jay raj amit kunal]
+size static: 5 --> max 5 elm store
+
+DS IN PYTHON:
+list
+tuple
+dict
+set
+
+list:
+
+list is collection of elements
+list allows duplicate values
+list is hetrogenious:[12,"",False]
+list is mutable
+list is iterabel [loop]
+list is subsriptable[access elements]
+type of list is list
+list is dynamic
+
