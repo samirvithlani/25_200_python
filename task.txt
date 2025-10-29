@@ -8,5 +8,25 @@ Remove duplicate characters
 Example: "programming" → "progamin"
 
 Remove all digits from a string
-
 Count number of uppercase and lowercase letters
+
+
+#please enter your name or exit:
+jay
+please enter your name or exit:
+parth
+please enter your name or exit:
+ajay
+please enter your name or exit:
+kunal
+please enter your name or exit:
+exit
+
+
+jay
+parth
+ajay
+kunal
+
+
+
