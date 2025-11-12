@@ -30,3 +30,25 @@ kunal
 
 
 
+declare a list with string 
+get name from user using input function to delete
+
+first find index of given name -->
+using pop remove found index of given name in above line..
+
+declare list of sales amount = 
+sales = [19000,20000,15000,22000,32400,50000,800000]
+# deduct 10% of discount from sales..
+and print list after deduct discount
+salesAftersis = [17100,18000....]
+
+users = ["amit","sumit","ajay","raj","parth","kunal","neha"]
+convert all string elem to uppercase.. and add in new list
+
+
+users = ["amit","sumit","ajay","raj","parth","kunal","neha"]
+name len >4  new list add
+
+data = [89,76,56,890,32,432,567,890,125,678,987,554,430,302,7403]
+numbers > 500 new list add
+
