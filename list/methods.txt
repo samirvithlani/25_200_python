@@ -1,0 +1,11 @@
+append
+extend
+insert
+pop
+pop(1)
+remove(element)
+index
+count
+reverse
+sort
+clear

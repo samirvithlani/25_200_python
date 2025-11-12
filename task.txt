@@ -52,3 +52,21 @@ name len >4  new list add
 data = [89,76,56,890,32,432,567,890,125,678,987,554,430,302,7403]
 numbers > 500 new list add
 
+
+#remove duplicate elemnt from list
+
+shapes = ["square","triangle","circle","square","rectangle","circle","dimond"]
+uniqueList = []
+
+names = ["naman","raj","bob","madam","jay","racecar"]
+#namen -- reve -- naman
+palindromeName = []
+hint: use string slicing...
+
+data =["ajay","vijay","ram","kunal","akshit","asha","nirasha"]
+newdata = []
+
+tasks:
+1)Find the largest and smallest number in a list
+2)Separate even and odd numbers into two lists
+3)Find common elements between two lists
