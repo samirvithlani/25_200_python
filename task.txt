@@ -70,3 +70,12 @@ tasks:
 1)Find the largest and smallest number in a list
 2)Separate even and odd numbers into two lists
 3)Find common elements between two lists
+
+#
+add 20% 
+sales = [200,300,400,200,500,700]
+salesWithProft = [250,360,]
+
+
+lang =["malayalam","gujarati","hindi","english","telugu"]
+langinit = ["m","g","h"]
