@@ -237,3 +237,8 @@ list is subsriptable[access elements]
 type of list is list
 list is dynamic
 
+LIST Comprehension
+to manupate list and get new list :
+[code]
+
+
