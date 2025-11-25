@@ -242,3 +242,14 @@ to manupate list and get new list :
 [code]
 
 
+
+tuple:
+1) tuple is dynamic
+2) tuple stores data in index manner
+3) tuple allows duplicate elements
+4) tuple is hetrogenious
+5) tuple is itrable
+6) tuple is supscritable..
+7) tuple is immutable...
+8) data type of tuple is tuple
+9) tuple can create using ()
