@@ -89,5 +89,6 @@ names = ["naman","ajay","madam","surya","bob"]
 add palindromeName name in new list with and without comprehension
 
 2)data = ["ajay patel","rohit sharma","ram","suman singh","solanki sanjay","vijay"]
-which name contains space add them to new list
+which name contains space add them to new list with and without comprehension
+
 
