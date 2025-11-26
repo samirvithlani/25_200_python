@@ -93,3 +93,16 @@ which name contains space add them to new list with and without comprehension
 
 
 
+enter name : amit
+enter marks : 23
+
+enter name : amit
+enter marks : 23
+
+enter name : amit
+enter marks : 23
+
+enter name : exit
+
+
+print dict.. using for loop
