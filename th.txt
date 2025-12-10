@@ -270,3 +270,17 @@ ajay-rank 1
 aramy office post
 abc --> colonol -->0
 gujarat ->gandhinag
+
+
+
+get 5 user name and fav color using input funciton
+username will be key and fav color will be value
+and print it
+
+#declare dict =
+players = {"virat":135,"rohit":65,"hardik":70,"yashshvi":121}
+
+get player name from user input and remove it if player name is present
+hint: use in operator
+
+
