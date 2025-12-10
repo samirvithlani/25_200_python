@@ -106,3 +106,6 @@ enter name : exit
 
 
 print dict.. using for loop
+
+crete dict of state and city and get state name from user and remove that data
+if state is available..
