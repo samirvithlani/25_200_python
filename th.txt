@@ -283,4 +283,12 @@ players = {"virat":135,"rohit":65,"hardik":70,"yashshvi":121}
 get player name from user input and remove it if player name is present
 hint: use in operator
 
+set:
+set is dynamic
+set allows hetrogenious value
+set does not allow duplicate elements
+set is not supscritable : index data access not
+set is unordered : 10,20,30 -- {10,20,30} -- {20,30,10} -- {20,10,30}
+set is iterable:
+
 
