@@ -290,5 +290,6 @@ set does not allow duplicate elements
 set is not supscritable : index data access not
 set is unordered : 10,20,30 -- {10,20,30} -- {20,30,10} -- {20,10,30}
 set is iterable:
+set is mutable
 
 
