@@ -22,3 +22,11 @@ print(data)
 removedELm = data.pop()
 print("remving...",removedELm)
 print(data)
+
+
+
+users = {"amit","sumit","ram","shyam","ajay","ok"}
+
+while len(users)>0:
+    x = users.pop()
+    print(x)
