@@ -292,4 +292,118 @@ set is unordered : 10,20,30 -- {10,20,30} -- {20,30,10} -- {20,10,30}
 set is iterable:
 set is mutable
 
+----------------------------------------------------------------------------------
+functions:
+defination:
+function is collection of statments
+funciton is set of instruction...
+---------------------------------
+
+2 type of functions
+1)pre define funciton
+	:compiler : ..
+	 count
+	 print
+	 reverse
+	 add
+	 len
+	 input
+	 type
+	 max
+	 min
+	 insert
+	 range
+	 upper
+	 append
+	 sum
+	 pop
+	 index
+	 lower
+	 trims
+	 startswith
+	 endswith
+	 remove
+
+2)user define function
+	:
+4 type of functions
+1)with argument with return type
+2)without argument with return type
+3)with argument no return type
+4)without argument no return type
+
+void demo(){
+	function body
+}
+int sum(para,s...){
+	return int value..
+}
+
+we dont have data type..
+void,int float...
+
+iin python  def keyword is use for declaring function..
+
+def funName(params....):
+	block..
+
+def funName(params....):
+	block..
+	return ""
+
+dvantage of creating functions...
+100 line print
+hello
+hi
+how are u...
+...
+..
+.
+
+hello
+---------------------------------------
+hi
+---------------------------------------
+how are u...
+---------------------------------------
+...
+---------------------------------------
+..
+---------------------------------------
+.
+---------------------------------------
+
+--------------------------------------- >>> 20 line code...
+
+
+100 * 20 = 2000
+
+drawline():
+	20 line
+
+hello
+drawline()
+hi
+drawline()
+how are u...
+drawline()
+...
+drawline()
+..
+drawline()
+.
+drawline()
+
+--------------------------------------- >>> 20 line code...	
+
+20 * 1 = 20
+
+2000 line --> 20 line : more readble
+2000 line --> 20 line : bug :--> 100 time --> 1 time
+
+change
+-------------------------------------
+______________________________________
+
+change -- 100 fun -->chane  -->1
 
