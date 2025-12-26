@@ -114,3 +114,14 @@ if state is available..
 
 iterate set using while loop
 pop
+
+
+create function which will accept 2 argument
+pass first name and lasnamr and print full name..
+
+
+create funciton which will take 1 argument pass list in argument and print len of list in function
+
+create function which will take 1 sinle argument username
+check userName is palindrome or not
+use string slicing...
