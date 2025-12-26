@@ -133,3 +133,30 @@ and find max element from list
 
 create funciton pass list to funciton
 and check all elements in list are int or not if all are int return true or false
+
+
+Write a function that takes no arguments and returns the string "Hello, Python!".
+
+Write a function that takes a string as input and returns its length.
+
+Write a function that takes a list of numbers and returns the sum of all elements.
+
+Write a function that takes a tuple of numbers and returns the maximum value.
+
+Write a function that takes a string and returns the string reversed.
+
+Write a function that takes a list and returns a new list with only even numbers.
+
+Write a function that takes a dictionary and returns the number of key-value pairs.
+
+🟡 Medium Level (8–14)
+
+Write a function that takes a string and returns a dictionary with character frequency.
+
+Write a function that takes a list of strings and returns the longest string.
+
+Write a function that takes a tuple of integers and returns a set of unique even numbers.
+
+Write a function that takes a sentence string and returns the count of vowels.
+
+Write a function that takes a dictionary of students and marks and returns the name of the student with highest marks.
