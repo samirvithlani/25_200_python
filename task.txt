@@ -125,3 +125,11 @@ create funciton which will take 1 argument pass list in argument and print len o
 create function which will take 1 sinle argument username
 check userName is palindrome or not
 use string slicing...
+
+#return type function 
+
+create a function pass list to funciton
+and find max element from list
+
+create funciton pass list to funciton
+and check all elements in list are int or not if all are int return true or false
