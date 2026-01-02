@@ -1,5 +1,5 @@
 def getAllKeys(data):
-    pass
+    return list(data.keys())
 
 users = {"raj":100,"parth":200,"jay":20}
 x = getAllKeys(users)
@@ -7,7 +7,7 @@ print(x)
 
 
 def getAllValues(data):
-    pass
+    return list(data.values())
 
 users = {"raj":100,"parth":200,"jay":20}
 x = getAllValues(users)
