@@ -4,7 +4,7 @@
 # getUsers("raj")    
 
 #args arugument variables...
-#args is not a keywors
+#args is not a keyword
 #args can accept min 0 to max n argument
 def getUsers(*args):
     print(args)

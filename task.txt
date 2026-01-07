@@ -160,3 +160,12 @@ Write a function that takes a tuple of integers and returns a set of unique even
 Write a function that takes a sentence string and returns the count of vowels.
 
 Write a function that takes a dictionary of students and marks and returns the name of the student with highest marks.
+
+#args:
+
+def calc(*args):
+    pass
+
+
+ans = calc(10,20,30,40,50,60)
+print(ans)
