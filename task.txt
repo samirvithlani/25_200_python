@@ -169,3 +169,5 @@ def calc(*args):
 
 ans = calc(10,20,30,40,50,60)
 print(ans)
+
+create 15 lambda function:
