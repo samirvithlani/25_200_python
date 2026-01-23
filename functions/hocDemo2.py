@@ -1,10 +1,10 @@
-def science():
+def science(name):
     print("admission in science..")
 
-def comm():
+def comm(name):
     print("admission in comm..")
 
-def arts():
+def arts(name):
     print("admission in arts..")        
 
 
