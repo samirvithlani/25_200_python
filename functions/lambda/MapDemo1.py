@@ -23,3 +23,16 @@ marks = [23,24,33,45,32]
 marks1 = map(lambda x:x+5,marks)
 print(list(marks1))
 
+sales = [800,700,600,1200,700,755] 
+# 30 % costing remove it and give gorss profit
+# sales1 = map(lambda x:x>700,sales)
+# print(list(sales1))
+
+sales1=filter(lambda x:x>700,sales)
+print(list(sales1))
+
+users = ["raj","parth","amit","naman","sumit","neha","bob"]
+#return all palindorome names
+#return all names whose len > 4
+# return all names ends with a or i
+# return all names starts with s
