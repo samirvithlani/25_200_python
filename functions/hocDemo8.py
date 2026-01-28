@@ -16,3 +16,15 @@ def tour(fn):
 name = input("enter name :")    
 finalAmount = tour(kashmir)
 print("finalAmount  = ",finalAmount)
+
+
+
+#upi credicard, debitcar, netbankin
+#2%  2.5         1          0.5
+
+def payment(fn):
+    pass
+
+#amount=input 100
+#charges = payment(upi)
+#print() #2
