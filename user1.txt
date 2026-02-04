@@ -1,0 +1,5 @@
+User Data:
+name = amir
+age = 23
+city = Ahmedabad
+salary = 25000
