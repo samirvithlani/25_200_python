@@ -1,0 +1,3 @@
+file1 = open("files/demo1.txt","a")
+print("Hello this is using print()",file=file1) #file is keyword.. kwargs...
+file1.close()

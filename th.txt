@@ -407,3 +407,23 @@ ______________________________________
 
 change -- 100 fun -->chane  -->1
 
+-------------------------------------
+
+FILE:
+to store data permenently we use file
+
+open file
+read/ write
+close file
+
+------------------------------------
+mode : r,w,a,....
+
+file path:
+
+relative path:"th.txt"
+absolute path:D:\royal\25_200_python\th.txt
+
+relative:set\setDemo1
+abs:D:\royal\25_200_python\set\setDemo1.py
+
