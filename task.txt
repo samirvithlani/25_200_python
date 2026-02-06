@@ -171,3 +171,8 @@ ans = calc(10,20,30,40,50,60)
 print(ans)
 
 create 15 lambda function:
+
+
+
+#read data from file....
+and store palindrome name from file in 1 list...
