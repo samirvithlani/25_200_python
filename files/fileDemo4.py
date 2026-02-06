@@ -28,3 +28,10 @@ data = {"Virat":[80,90,100],"Rohit":[90,89,120,78],"Pandya":[45,67,87]}
 
 #Rohit
 
+
+#virat.txt --> virat
+#rohit.txt ->
+#...
+
+
+
