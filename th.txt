@@ -426,3 +426,14 @@ absolute path:D:\royal\25_200_python\th.txt
 
 relative:set\setDemo1
 abs:D:\royal\25_200_python\set\setDemo1.py
+
+
+Name = amit
+Age = 23
+City = AhmedabadName = amit
+Age = 23
+City = Ahmedabad
+
+
+read.. dict: 
+key=value..
