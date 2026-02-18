@@ -203,3 +203,24 @@ please enter any single char
 s --> S --> same 
 
 s starts name print
+
+
+name len >4  -->filtername.txt
+
+firstName = ["raj","parth,"amit","sumit","ajay"]
+lastName = ["patel","shah","thakkar","jadav","sharma"]
+
+fullname.txt
+raj patel
+parth shah
+amit thakkar
+
+
+create a function which will accept file name as first parm
+and *args as seconf param
+pass 5 numbers in args 
+and store only even numners in even.txy
+
+def x(filanme,*args):
+    pass
+
