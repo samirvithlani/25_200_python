@@ -17,6 +17,9 @@ print(most_popular)
 # oneplayer = sum(1 for s in sports_count if sports_count[s]==1)
 # print(oneplayer)
 
+oneplayer = [s for s in sports_count if sports_count[s]==1]
+print(oneplayer)
+
 match_type = [
 "5v5","7v7","5v5","11v11",
 "5v5","7v7","5v5","11v11",
