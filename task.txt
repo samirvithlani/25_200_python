@@ -224,3 +224,32 @@ and store only even numners in even.txy
 def x(filanme,*args):
     pass
 
+
+
+
+how mnay overs you want to play --2
+1 -6
+2 -12
+
+press 1 to contiunue:
+ball 1 --> 1
+ball 2 --> 4
+...
+ball 12 -->1
+
+
+total run -->
+
+
+enter player 1 name:
+enter player 2 name:
+
+raj,parth
+hellp raj please roll dice : 1
+hello parth please roll dice : 4
+
+winner parth
+
+hellp raj please roll dice : 6
+roll again : 4 ->10
+hello parth please roll dice : 4
