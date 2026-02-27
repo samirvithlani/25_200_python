@@ -437,3 +437,17 @@ City = Ahmedabad
 
 read.. dict: 
 key=value..
+
+result folder:
+main.py:
+	   marks --> calulcate 
+	   pers
+	   -->
+	   storemarks
+calc.py : calulcate marks(marks)
+		      total marks	
+		  calulcate_pers(ttoal):
+		  	   pers		  
+files.py
+   storemarks(filename,stuname,totalmark,pers)
+	    file data store..
