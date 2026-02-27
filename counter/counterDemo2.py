@@ -28,3 +28,8 @@ match_type = [
 
 #most demaanded match
 #11v11 demanded ? >2 
+match_count = Counter(match_type)
+print(match_count.most_common(1))
+
+if match_count['11v11']>=2:
+    print("demanded")
